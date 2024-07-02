@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "otsamplifycac62ba9": {}
+      },
+      "api": {
+        "otsamplify": {}
+      },
+      "storage": {
+        "furniture": {}
       }
     }
   }

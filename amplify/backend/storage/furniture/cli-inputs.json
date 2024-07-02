@@ -1,0 +1,14 @@
+{
+  "resourceName": "furniture",
+  "policyUUID": "c532f3e3",
+  "bucketName": "otsamplifyfurniturebucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
